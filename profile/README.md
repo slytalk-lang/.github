@@ -1,7 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5079f6cf-2f4f-41f2-ae47-2f4b905784cb">
-    <img src="https://github.com/user-attachments/assets/7cd4cb88-6107-47da-a1e5-3dec32c40d63" alt="SlyTalk — horse-head mark and wordmark" width="340" />
+    <img src="https://github.com/user-attachments/assets/03a978d9-62c6-456b-aeff-6465aaeab964" alt="SlyTalk — horse-head mark and wordmark" width="340" />
   </picture>
 </p>
 
